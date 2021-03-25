@@ -18,3 +18,5 @@ This is a corporate credit system based on deep learning models. The whole model
 * **ASSL4CCR** : Adversarial semi-supervised learning for corporate credit rating 
 ![avatar](./images/assl4ccr.jpg)
 [[pdf]]()
+## 3.model files
+The model files can be downloaded from this [[link]](https://pan.baidu.com/s/1HeG6_Hf6X6sTc_2kmJ0x2g). (password:d8sa)
