@@ -2,7 +2,7 @@
 
 ## 1.Introduction
 This is a corporate credit system based on deep learning models. The whole model concludes three moudules including Financial Data,Credit Rating models and Ensemble model  which shows in the following figure.
-![avatar](./images/architecture.jpg)
+![avatar](./images/ccrs.jpg)
 * Financial Data : This layer process the financial data as input.
 * Credit Rating models: This moudules contains three rating models:CCR-CNN,CCR-GNN,ASSL4CCR
 * Ensemble model: This layer enselbe the three models to predict final results by the way of bagging.
@@ -19,7 +19,7 @@ This is a corporate credit system based on deep learning models. The whole model
 ![avatar](./images/assl4ccr.jpg)
 [[pdf]](https://arxiv.org/abs/2104.02479)
 * **HHGNN** : Hierarchical Heterogeneous Graph Neural Network Model
-![avatar]()
+![avatar](./images/hhgnn.jpg)
 [[pdf]]()
 ## 3.model files
 The model files can be downloaded from this [[link]](https://pan.baidu.com/s/1HeG6_Hf6X6sTc_2kmJ0x2g). (password:d8sa)
